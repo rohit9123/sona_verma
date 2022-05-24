@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Cookie|Raleway:300,700,400);
+      * {
+        box-sizing: border-box;
+        font-size: 1em;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background: url("https://media.istockphoto.com/photos/classic-greek-salad-picture-id1347220752?b=1&k=20&m=1347220752&s=170667a&w=0&h=f2qQwxQOTFyj2Oe6nrN57LI_m-Ksr3gCGTOAUHIZW7M=")
+          center no-repeat;
+        background-size: cover;
+        color: #333;
+        font-size: 18px;
+        font-family: "Raleway", sans-serif;
+      }
+      .container {
+        border-radius: 0.5em;
+        box-shadow: 0 0 1em 0 rgba(51, 51, 51, 0.25);
+        display: block;
+        max-width: 480px;
+        overflow: hidden;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        padding: 2em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 1;
+        width: 98%;
+      }
+      .container:before {
+        background: url("./foods.jpg") center no-repeat;
+        background-size: cover;
+        content: "";
+        -webkit-filter: blur(10px);
+        filter: blur(10px);
+        height: 100vh;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: -1;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        width: 100vw;
+      }
+      .container:after {
+        background: rgba(255, 255, 255, 0.6);
+        content: "";
+        display: block;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        width: 100%;
+      }
+      form button.submit {
+        background: rgba(255, 255, 255, 0.25);
+        border: 1px solid #333;
+        line-height: 1em;
+        padding: 0.5em 0.5em;
+        -webkit-transition: all 0.25s;
+        transition: all 0.25s;
+      }
+      form button:hover,
+      form button:focus,
+      form button:active,
+      form button.loading {
+        background: #333;
+        color: #fff;
+        outline: none;
+      }
+      form button.success {
+        background: #27ae60;
+        border-color: #27ae60;
+        color: #fff;
+      }
+      @-webkit-keyframes spin {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      @keyframes spin {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      form button span.loading-spinner {
+        -webkit-animation: spin 0.5s linear infinite;
+        animation: spin 0.5s linear infinite;
+        border: 2px solid #fff;
+        border-top-color: transparent;
+        border-radius: 50%;
+        display: inline-block;
+        height: 1em;
+        width: 1em;
+      }
+
+      form label {
+        border-bottom: 1px solid #333;
+        display: block;
+        font-size: 1.25em;
+        margin-bottom: 0.5em;
+        -webkit-transition: all 0.25s;
+        transition: all 0.25s;
+      }
+      form label input {
+        background: none;
+        border: none;
+        line-height: 1em;
+        font-weight: 300;
+        padding: 0.125em 0.25em;
+        width: 100%;
+      }
+      form label input:focus {
+        outline: none;
+      }
+      form label input:-webkit-autofill {
+        background-color: transparent !important;
+      }
+      form label span.label-text {
+        display: block;
+        font-size: 0.5em;
+        font-weight: bold;
+        padding-left: 0.5em;
+        text-transform: uppercase;
+        -webkit-transition: all 0.25s;
+        transition: all 0.25s;
+      }
+      form label.invalid {
+        border-color: #c0392b !important;
+      }
+      form label.invalid span.label-text {
+        color: #c0392b;
+      }
+
+      h1 {
+        font-size: 3em;
+        margin: 0 0 0.5em 0;
+        text-align: center;
+        font-family: "Cookie", cursive;
+      }
+      h1 img {
+        height: auto;
+        margin: 0 auto;
+        max-width: 240px;
+        width: 100%;
+      }
+      html {
+        font-size: 18px;
+        height: 100%;
+      }
+
+      .text-center {
+        text-align: center;
+      }
+      .select {
+        background: transparent;
+        width: 100%;
+        font-family: "Raleway", sans-serif;
+        font-size: small;
+        border: none;
+      }
+      .num {
+        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+          sans-serif;
+      }
+
+      #image {
+        border-radius: 5px;
+        height: 130px;
+      }
+    </style>
+    <script src="Main.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>
+          <a href="#">
+            <img
+              id="image"
+              src="https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800"
+            />
+          </a>
+        </h1>
+      </header>
+      <h1 class="text-center">Restaurants Recommendation</h1>
+      <form class="registration-form" method="post" action="/search">
+        <label>
+          <span class="label-text">Age</span>
+          <input
+            type="number"
+            class="select num"
+            name="Age"
+            min="1"
+            max="120"
+            required
+          />
+        </label>
+        <label>
+          <span class="label-text">Rating</span>
+          <input
+            type="number"
+            class="select num"
+            name="Rating"
+            min="1"
+            max="5"
+            step="0.01"
+            required
+          />
+        </label>
+
+        <label>
+          <span class="label-text">Gender</span>
+          <input type="string" name="gender" />
+        </label>
+
+        <label>
+          <span class="label-text">Food Type</span>
+          <input type="string" name="foodType" />
+        </label>
+
+        <label>
+          <span class="label-text">Pricing</span>
+          <input
+            type="number"
+            class="select num"
+            name="Pricing"
+            min="600"
+            max="2000"
+            required
+          />
+        </label>
+
+        <div class="text-center">
+          <input type="submit" />
+        </div>
+
+        <label>
+          <span class="label-text">Recommendations</span>
+          <label id="output"></label>
+        </label>
+      </form>
+    </div>
+  </body>
+</html>

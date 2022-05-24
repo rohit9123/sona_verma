@@ -1,0 +1,289 @@
+,Gender,Age,Food,Rating,Restraunt,Pricing
+0,Male,24,Traditional food,1.5,Food Nagri,760
+1,Female,22,Western Food,1.9,Pops Kitchen,1130
+2,Male,31,Western Food,1.7,Punjab Grills,770
+3,Female,25,Traditional food,2.3,Palm Cafe,1560
+4,Male,27,Traditional food,3,Pops Kitchen,1990
+5,Male,24,Traditional food,3,Food Planet Restaurant,1650
+6,Female,34,Traditional food,1,Palm Cafe,840
+7,Male,24,Western Food,4.4,Food Nagri,1180
+8,Female,19,Traditional food,3.7,Pyari Pahando Restro,1310
+9,Female,16,Western Food,3.4,Darbar E Doon,1410
+10,Male,23,Traditional food,1.6,Pops Kitchen,1440
+11,Female,22,Traditional food,3.5,Dominik Pizza,1950
+12,Female,22,Traditional food,4.5,Dana Pani Family Restaurant,1200
+13,Female,24,Western Food,1.8,Matta Restaurant,1440
+14,Male,27,Traditional food,4.3,Anandam,1490
+15,Male,25,Traditional food,3.5,Matta Restaurant,960
+16,Male,26,Traditional food,1.3,Food Nagri,1480
+17,Male,22,Traditional food,1.6,Annapurna Vegetarian,1860
+18,Female,38,Traditional food,1.4,Dominik Pizza,1510
+19,Female,31,Traditional food,3.2,Bunnu Kitchen,1450
+20,Male,21,Traditional food,4.4,Dana Pani Family Restaurant,910
+21,Male,20,Traditional food,1.7,Tuhada Dhaba,610
+22,Male,20,Western Food,4.1,Gusto,950
+23,Male,22,Western Food,3.4,Anandam,1730
+24,Male,20,Traditional food,4.1,Mussoorie Lights,1990
+25,Female,24,Traditional food,3.9,Palm Cafe,1520
+26,Male,43,Traditional food,2,Food Nagri,630
+27,Female,29,Western Food,1.7,Palm Cafe,1670
+28,Male,39,Traditional food,2.9,Punjab Grills,1690
+29,Male,26,Traditional food,3.6,Mommas Kitchen,1090
+30,Male,21,Traditional food,1.5,Pyari Pahando Restro,1780
+31,Female,40,Western Food,1.9,Dominik Pizza,1900
+32,Male,13,Western Food,1.6,Kathi Junction,1040
+33,Male,13,Western Food,3.8,The Urban Pendu Cafe,1990
+34,Male,13,Western Food,1.9,Pyari Pahando Restro,1480
+35,Male,24,Western Food,1.8,Darbar E Doon,680
+36,Male,13,Western Food,3,Mommas Kitchen,1430
+37,Male,24,Traditional food,1.8,Bunnu Kitchen,2000
+38,Male,21,Traditional food,2.7,Annapurna Vegetarian,1470
+39,Female,34,Traditional food,1.5,Mussoorie Lights,1770
+40,Female,18,Traditional food,3,The Urban Pendu Cafe,640
+41,Male,26,Traditional food,4.1,The Urban Pendu Cafe,1360
+42,Male,24,Western Food,3.2,Raasta,1290
+43,Male,60,Traditional food,1.7,Anandam,1070
+44,Male,21,Western Food,1.5,The Urban Pendu Cafe,1080
+45,Female,21,Traditional food,3.3,Raasta,1990
+46,Male,24,Western Food,2.1,Palm Cafe,1460
+47,Male,25,Western Food,2.7,Annapurna Vegetarian,1270
+48,Male,23,Traditional food,1.1,Annapurna Vegetarian,1690
+49,Female,25,Traditional food,2,Anandam,1710
+50,Female,22,Traditional food,2.4,Punjab Grills,710
+51,Male,27,Western Food,2.4,Matta Restaurant,630
+52,Male,26,Traditional food,1.6,Walk in Woods,890
+53,Female,30,Traditional food,1.2,Dominik Pizza,670
+54,Female,25,Traditional food,1.4,Palm Cafe,1830
+55,Male,23,Western Food,3.3,Punjab Grills,1190
+56,Female,25,Traditional food,2.2,Matta Restaurant,600
+57,Male,21,Traditional food,1.6,Kathi Junction,1010
+58,Male,47,Traditional food,2.5,Anandam,1210
+59,Male,21,Western Food,4.3,Tuhada Dhaba,960
+60,Female,25,Traditional food,2.7,Dominik Pizza,1260
+61,Female,30,Western Food,4.5,Palm Cafe,1640
+62,Female,54,Traditional food,1.3,Chings Cafe,820
+63,Male,23,Traditional food,1.8,Chings Cafe,1410
+64,Male,27,Traditional food,3.9,Anandam,1300
+65,Male,74,Traditional food,2,Anandam,1970
+66,Female,27,Traditional food,1.8,Mussoorie Lights,1500
+67,Male,19,Traditional food,2,Pyari Pahando Restro,1710
+68,Male,19,Western Food,3.4,Food Nagri,1220
+69,Female,80,Traditional food,1.5,Thali Home,790
+70,Female,25,Traditional food,2.9,Matta Restaurant,1340
+71,Male,34,Traditional food,1.5,Anandam,1680
+72,Female,19,Traditional food,1.7,Tuhada Dhaba,1000
+73,Female,80,Traditional food,2.1,Dominik Pizza,990
+74,Female,33,Traditional food,4.6,Mommas Kitchen,610
+75,Male,33,Traditional food,1.6,Food Planet Restaurant,1740
+76,Female,40,Traditional food,1.9,Bunnu Kitchen,850
+77,Male,21,Traditional food,3.2,Mussoorie Lights,1690
+78,Male,36,Traditional food,2.9,Gusto,1210
+79,Female,28,Traditional food,1.9,Raasta,1500
+80,Female,28,Traditional food,1.6,Mussoorie Lights,1400
+81,Female,19,Traditional food,1.8,Anandam,1070
+82,Female,21,Traditional food,1,Anandam,1300
+83,Female,40,Traditional food,1.8,Matta Restaurant,830
+84,Male,28,Traditional food,1.3,Annapurna Vegetarian,1310
+85,Female,32,Traditional food,1.2,Walk in Woods,1820
+86,Female,38,Traditional food,3.5,Mussoorie Lights,640
+87,Female,36,Traditional food,2.3,Pyari Pahando Restro,910
+88,Female,30,Traditional food,3.4,The Urban Pendu Cafe,1500
+89,Male,19,Traditional food,1.8,Darbar E Doon,690
+90,Female,60,Traditional food,2.9,Bunnu Kitchen,1400
+91,Female,20,Traditional food,1.7,Dana Pani Family Restaurant,1760
+92,Female,39,Western Food,4,Raasta,1450
+93,Male,22,Traditional food,1.3,Pyari Pahando Restro,1740
+94,Female,23,Traditional food,3.1,Palm Cafe,620
+95,Female,31,Western Food,3.8,Pyari Pahando Restro,850
+96,Female,31,Western Food,1.2,Annapurna Vegetarian,1420
+97,Female,23,Traditional food,1.6,Pyari Pahando Restro,1830
+98,Male,23,Traditional food,4.8,Perfect Cravings,1670
+99,Female,34,Western Food,3.7,Darbar E Doon,1300
+100,Female,25,Traditional food,5,Annapurna Vegetarian,1890
+101,Male,38,Traditional food,3,Perfect Cravings,1300
+102,Male,19,Traditional food,1.8,Bunnu Kitchen,1180
+103,Female,19,Western Food,1.1,Palm Cafe,1900
+104,Female,24,Traditional food,4.4,Raasta,1460
+105,Female,20,Traditional food,3.8,Perfect Cravings,1410
+106,Female,20,Traditional food,1.8,The Urban Pendu Cafe,1030
+107,Female,54,Traditional food,1.7,Tuhada Dhaba,610
+108,Male,22,Western Food,1.3,Matta Restaurant,1190
+109,Female,16,Western Food,4.9,Thali Home,1510
+110,Male,23,Western Food,1.8,Raasta,1950
+111,Female,47,Traditional food,3.8,The Urban Pendu Cafe,770
+112,Male,54,Traditional food,1.2,Dominik Pizza,810
+113,Female,54,Traditional food,1.4,Matta Restaurant,770
+114,Male,30,Traditional food,4.5,Dana Pani Family Restaurant,1060
+115,Male,23,Traditional food,1.3,Chings Cafe,1270
+116,Female,32,Traditional food,3.5,Pyari Pahando Restro,1780
+117,Female,29,Traditional food,2.5,Darbar E Doon,1980
+118,Female,8,Traditional food,1.5,Mommas Kitchen,830
+119,Female,26,Traditional food,1.7,Anandam,880
+120,Female,27,Traditional food,4.1,Pops Kitchen,1050
+121,Male,12,Traditional food,4.1,Pyari Pahando Restro,1160
+122,Female,29,Western Food,3.9,Mussoorie Lights,1730
+123,Male,19,Traditional food,2.4,Rajdhani Restaurant,1790
+124,Male,56,Traditional food,3.5,Food Planet Restaurant,610
+125,Female,53,Traditional food,2.4,Pyari Pahando Restro,1810
+126,Male,20,Traditional food,1.7,Punjab Grills,1260
+127,Male,19,Traditional food,3.3,Dominik Pizza,1620
+128,Female,33,Traditional food,3,Bunnu Kitchen,1570
+129,Male,26,Traditional food,2.3,Perfect Cravings,1760
+130,Female,31,Traditional food,1.6,Anandam,1830
+131,Male,29,Traditional food,4.2,Palm Cafe,1360
+132,Female,32,Traditional food,2,Tuhada Dhaba,1920
+133,Female,39,Traditional food,1.7,KFC,910
+134,Female,28,Traditional food,4.8,Perfect Cravings,880
+135,Female,30,Traditional food,3.7,Thali Home,1200
+136,Female,28,Western Food,4.4,Annapurna Vegetarian,1230
+137,Female,30,Traditional food,4.3,KFC,710
+138,Male,59,Traditional food,5,Thali Home,710
+139,Male,67,Traditional food,3,Mommas Kitchen,1180
+140,Female,63,Traditional food,1.5,Pops Kitchen,1680
+141,Male,18,Western Food,2,Anandam,830
+142,Female,37,Traditional food,2.3,KFC,1510
+143,Female,38,Traditional food,4.7,KFC,1120
+144,Male,38,Traditional food,2.8,Anandam,980
+145,Male,25,Western Food,3.3,Food Nagri,1550
+146,Female,24,Traditional food,1.8,Food Planet Restaurant,1040
+147,Female,33,Traditional food,3.1,Perfect Cravings,1670
+148,Female,40,Traditional food,1.4,The Urban Pendu Cafe,890
+149,Male,28,Traditional food,2.6,Mussoorie Lights,1070
+150,Male,27,Western Food,1.2,Thali Home,780
+151,Male,24,Traditional food,2.2,Punjab Grills,1520
+152,Male,25,Traditional food,1.4,Matta Restaurant,620
+153,Male,28,Traditional food,1.2,Pyari Pahando Restro,1420
+154,Male,15,Western Food,2.9,Darbar E Doon,1460
+155,Female,40,Traditional food,3.2,Chings Cafe,880
+156,Female,35,Traditional food,2.6,Annapurna Vegetarian,740
+157,Male,9,Traditional food,3,Kathi Junction,950
+158,Male,30,Traditional food,2.8,Punjab Grills,1950
+159,Male,24,Traditional food,1.7,Rajdhani Restaurant,970
+160,Male,28,Western Food,3.7,Food Nagri,1640
+161,Female,65,Traditional food,1.6,Raasta,980
+162,Female,25,Traditional food,2.2,Food Nagri,760
+163,Female,33,Traditional food,1,Pops Kitchen,1860
+164,Male,33,Traditional food,1.8,Matta Restaurant,1250
+165,Female,27,Traditional food,4,Pops Kitchen,610
+166,Female,27,Traditional food,1.7,Darbar E Doon,1860
+167,Male,26,Traditional food,2.7,Tuhada Dhaba,1670
+168,Female,25,Traditional food,3.6,Pops Kitchen,1940
+169,Female,25,Traditional food,1.8,Rajdhani Restaurant,1250
+170,Male,34,Traditional food,2.1,Anandam,1180
+171,Female,25,Traditional food,1.6,Perfect Cravings,1040
+172,Female,26,Western Food,4.2,Anandam,1240
+173,Female,21,Traditional food,1.6,Dominik Pizza,1520
+174,Female,26,Traditional food,1.2,Walk in Woods,1230
+175,Female,25,Traditional food,3.3,Punjab Grills,1610
+176,Male,30,Traditional food,4.6,Punjab Grills,1720
+177,Male,9,Western Food,2.1,Palm Cafe,1700
+178,Female,39,Traditional food,4.2,Dominik Pizza,1500
+179,Female,35,Traditional food,1.5,Rajdhani Restaurant,1950
+180,Female,30,Traditional food,3.1,Walk in Woods,1800
+181,Female,45,Traditional food,3.9,Tuhada Dhaba,950
+182,Female,38,Traditional food,2.4,Rajdhani Restaurant,1700
+183,Female,30,Traditional food,5,Annapurna Vegetarian,1590
+184,Female,35,Western Food,4.6,Gusto,670
+185,Female,40,Traditional food,3.4,Tuhada Dhaba,890
+186,Female,29,Traditional food,1.2,The Urban Pendu Cafe,1900
+187,Female,45,Traditional food,2,Punjab Grills,1040
+188,Female,33,Traditional food,4.9,Rajdhani Restaurant,1730
+189,Female,35,Traditional food,1.4,Punjab Grills,920
+190,Female,50,Traditional food,3.8,Kathi Junction,1120
+191,Male,23,Traditional food,1.1,Anandam,660
+192,Female,40,Traditional food,2.1,Food Nagri,1850
+193,Female,50,Traditional food,4.1,Mommas Kitchen,1090
+194,Male,31,Traditional food,1.5,Anandam,1940
+195,Female,33,Traditional food,3.6,Palm Cafe,920
+196,Female,37,Traditional food,1.4,Food Planet Restaurant,800
+197,Female,35,Traditional food,2.7,Mussoorie Lights,1010
+198,Female,49,Traditional food,1.7,Walk in Woods,1590
+199,Female,42,Traditional food,1.7,Chings Cafe,710
+200,Female,31,Traditional food,3.5,Gusto,1400
+201,Male,34,Traditional food,4.4,KFC,640
+202,Female,51,Traditional food,3.4,Kathi Junction,1650
+203,Female,39,Traditional food,2.3,Pyari Pahando Restro,1770
+204,Female,28,Traditional food,3.7,Chings Cafe,1590
+205,Female,23,Traditional food,4.2,Annapurna Vegetarian,1640
+206,Female,24,Traditional food,2.4,Food Planet Restaurant,1940
+207,Female,40,Traditional food,3.2,The Urban Pendu Cafe,1160
+208,Female,37,Traditional food,4.9,Kathi Junction,1020
+209,Female,30,Traditional food,1.4,Matta Restaurant,630
+210,Female,34,Traditional food,1.4,Dominik Pizza,1600
+211,Female,37,Traditional food,3.1,Mommas Kitchen,910
+212,Female,45,Traditional food,4.2,Mussoorie Lights,640
+213,Female,21,Traditional food,4.8,Kathi Junction,1200
+214,Female,28,Traditional food,3.3,Food Planet Restaurant,1100
+215,Female,24,Western Food,3.6,The Urban Pendu Cafe,1480
+216,Female,24,Western Food,1.9,Dana Pani Family Restaurant,1280
+217,Female,37,Traditional food,2.6,Pyari Pahando Restro,1540
+218,Female,44,Traditional food,1.5,Mussoorie Lights,600
+219,Male,30,Traditional food,2.8,Dominik Pizza,1420
+220,Female,40,Traditional food,1.3,Annapurna Vegetarian,1030
+221,Male,38,Traditional food,3,Thali Home,1490
+222,Female,33,Traditional food,1.1,Matta Restaurant,730
+223,Female,38,Traditional food,2.6,Annapurna Vegetarian,1930
+224,Male,38,Traditional food,3.3,Anandam,1870
+225,Female,30,Traditional food,1.5,Anandam,600
+226,Female,37,Traditional food,1.1,Thali Home,1280
+227,Female,34,Traditional food,4.2,Mommas Kitchen,1990
+228,Female,56,Traditional food,4.7,Palm Cafe,1490
+229,Male,40,Western Food,3.9,KFC,670
+230,Male,38,Traditional food,1.3,Mommas Kitchen,1090
+231,Female,42,Traditional food,4.7,Kathi Junction,1860
+232,Female,24,Western Food,4.6,Gusto,980
+233,Female,25,Western Food,1.4,Perfect Cravings,1920
+234,Female,36,Traditional food,1,Walk in Woods,1520
+235,Male,18,Traditional food,2.8,Dana Pani Family Restaurant,680
+236,Female,30,Traditional food,2.3,Annapurna Vegetarian,1920
+237,Female,39,Traditional food,4.2,Perfect Cravings,1630
+238,Female,45,Traditional food,4.8,Food Planet Restaurant,1930
+239,Female,24,Traditional food,2.1,Bunnu Kitchen,800
+240,Male,9,Traditional food,1.5,Rajdhani Restaurant,720
+241,Female,50,Traditional food,3.4,Tuhada Dhaba,830
+242,Female,22,Western Food,1.9,Pops Kitchen,970
+243,Female,40,Traditional food,4.5,Rajdhani Restaurant,1960
+244,Female,36,Traditional food,4.1,The Urban Pendu Cafe,610
+245,Female,35,Traditional food,2.1,Perfect Cravings,720
+246,Female,35,Traditional food,3.5,Annapurna Vegetarian,1570
+247,Female,40,Traditional food,1.8,Food Planet Restaurant,780
+248,Female,32,Traditional food,4.1,KFC,1140
+249,Female,28,Traditional food,4.8,Chings Cafe,1450
+250,Female,25,Traditional food,2.4,Gusto,1930
+251,Female,27,Traditional food,1.4,Pyari Pahando Restro,1090
+252,Female,28,Traditional food,1.5,The Urban Pendu Cafe,1100
+253,Female,38,Traditional food,1,Rajdhani Restaurant,1670
+254,Female,17,Traditional food,2.7,Thali Home,1250
+255,Male,42,Traditional food,1.3,Anandam,1310
+256,Female,42,Traditional food,1.3,Gusto,1620
+257,Female,37,Traditional food,1.6,Pyari Pahando Restro,1460
+258,Female,42,Traditional food,1.2,Walk in Woods,1810
+259,Female,37,Traditional food,1.1,Mussoorie Lights,1930
+260,Female,46,Traditional food,1.3,Kathi Junction,1700
+261,Female,36,Traditional food,2.7,Anandam,1440
+262,Male,26,Traditional food,1.1,Tuhada Dhaba,1950
+263,Male,27,Traditional food,4.5,Anandam,740
+264,Male,25,Traditional food,3.9,Rajdhani Restaurant,1410
+265,Male,27,Western Food,2,Kathi Junction,1280
+266,Male,27,Traditional food,2,Dana Pani Family Restaurant,1730
+267,Male,25,Traditional food,1.6,Food Nagri,960
+268,Female,23,Traditional food,3.9,KFC,1420
+269,Male,26,Traditional food,1.6,Walk in Woods,1320
+270,Male,23,Traditional food,3,KFC,1250
+271,Male,28,Traditional food,3.1,Pyari Pahando Restro,1750
+272,Male,23,Traditional food,1.8,Gusto,930
+273,Female,22,Traditional food,1.7,Kathi Junction,1040
+274,Male,29,Western Food,4.3,Food Planet Restaurant,850
+275,Male,30,Traditional food,1.3,Darbar E Doon,810
+276,Male,28,Traditional food,3.8,Perfect Cravings,1370
+277,Female,26,Traditional food,4,Pops Kitchen,930
+278,Male,25,Traditional food,4.6,Anandam,890
+279,Male,24,Traditional food,1.3,Dana Pani Family Restaurant,1710
+280,Male,25,Traditional food,2.8,Mussoorie Lights,1450
+281,Male,27,Traditional food,1.9,Walk in Woods,990
+282,Male,27,Traditional food,2.2,Mommas Kitchen,1250
+283,Male,27,Western Food,2,Annapurna Vegetarian,650
+284,Male,24,Traditional food,1.9,Perfect Cravings,1550
+285,Male,25,Traditional food,1.9,Mussoorie Lights,1640
+286,Male,27,Traditional food,3.1,Thali Home,1110
+287,Male,27,Traditional food,4.3,Annapurna Vegetarian,1580
